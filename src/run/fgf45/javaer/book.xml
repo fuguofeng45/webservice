@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dd:书架 xmlns:dd="http://www.atguigu.cn" 
+	 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://www.atguigu.cn book.xsd">
+	
+	<dd:书>
+		<dd:书名>JavaScript开发</dd:书名>
+		<dd:作者>老董</dd:作者>
+		<dd:售价>28</dd:售价>
+	</dd:书>
+	
+</dd:书架>
